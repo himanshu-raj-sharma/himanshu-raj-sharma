@@ -7,9 +7,8 @@ AI/ML Enthusiast
 ↓ What does he build?
 
 ACFM-System
-LeLe Organics
 AI Data Analyst Agent
-PunyKart
+LeLe Organics
 
 ↓ What does he use?
 
