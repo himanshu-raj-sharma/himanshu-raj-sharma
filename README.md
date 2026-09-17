@@ -1,16 +1,38 @@
-## Hi there 👋
+Himanshu Raj
+────────────────────────────────
 
-<!--
-**himanshu-raj-sharma/himanshu-raj-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer
+AI/ML Enthusiast
 
-Here are some ideas to get you started:
+↓ What does he build?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ACFM-System
+LeLe Organics
+AI Data Analyst Agent
+PunyKart
+
+↓ What does he use?
+
+Python
+TypeScript
+React
+Next.js
+Node
+PostgreSQL
+PyTorch
+OpenCV
+Docker
+...
+
+↓ Is he actually active?
+
+GitHub activity
+Contributions
+Projects
+Stats
+
+↓ Can I contact him?
+
+LinkedIn
+Resume
+Email
