@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Himanshu Raj
 
-### Full-Stack Developer · AI/ML Enthusiast · Software Engineer
+### Software Engineer · AI/ML Enthusiast · Data Analytics  
 
 Building practical software, modern web applications, and AI-driven systems.
 
