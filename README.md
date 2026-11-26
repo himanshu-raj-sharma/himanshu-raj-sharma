@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Himanshu Raj
 
-### Software Engineer · AI/ML Enthusiast · Data Analytics  
+### Software Engineer | Applied AI/ML · Cloud  
 
 Building practical software, modern web applications, and AI-driven systems.
 
