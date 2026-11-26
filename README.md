@@ -17,7 +17,7 @@ Building practical software, modern web applications, and AI-driven systems.
   <a href="https://linkedin.com/in/himanshu-raj-sharma">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/file/d/1nhuZJEH9av5EJymhXAA7UvMpBC0MptZQ/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/12HciIARCho6po8FSyno9w77Xx5vcndjp/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-0e75b6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
